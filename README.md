@@ -243,5 +243,5 @@ Cada comando para correr o revertir migraciones o seeders puede ir acompañado p
 
 # 📄 Documentación
 
-[Migraciones y seeders](https://sequelize.org/master/manual/migrations.html)
-[Sequelize dataTypes](https://sequelize.org/v5/manual/data-types.html)
+- [Migraciones y seeders](https://sequelize.org/master/manual/migrations.html)
+- [Sequelize dataTypes](https://sequelize.org/v5/manual/data-types.html)

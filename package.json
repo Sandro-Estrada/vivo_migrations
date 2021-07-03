@@ -1,5 +1,5 @@
 {
-  "name": "migrations_chiper",
+  "name": "vivo_migrations",
   "version": "1.0.0",
   "description": "Chiper DB Manager",
   "main": "index.js",
